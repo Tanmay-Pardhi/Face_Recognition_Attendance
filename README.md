@@ -17,6 +17,7 @@ source <myvenv>/bin/activate
 ```
 Installing the required packages to our virtual environment
 ```bash
+pip install cmake
 pip install -r requirements.txt
 ```
 
