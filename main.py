@@ -1,3 +1,4 @@
+# All this libraries should be installed beforehand, install it using the requirements file.
 import face_recognition
 import cv2
 import numpy as np
@@ -15,7 +16,7 @@ from utils import append_df_to_excel
 # specific demo. If you have trouble installing it, try any of the other demos that don't require it instead.
 
 # Get a reference to webcam #0 (the default one)
-video_capture = cv2.VideoCapture(0, cv2.CAP_DSHOW)
+video_capture = cv2.VideoCapture(0, cv2.CAP_DSHOW) #will capture even without specifying cv2.CAP_DSHOW.. it is used just to remove a warning which comes after program execution.
 
 # # Load a sample picture and learn how to recognize it.
 # obama_image = face_recognition.load_image_file("obama.jpg")
