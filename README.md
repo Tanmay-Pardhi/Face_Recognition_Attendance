@@ -5,12 +5,6 @@ All we need is one image of the person to be detected by the camera.
 _
 
 
-#### Installing on Linux
-
-First, make sure you have dlib already installed with Python bindings:
-
-  * [How to install dlib from source on macOS or Ubuntu](https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf)
-
 Cloning the repository
 ```bash
 git clone https://github.com/aashutoshPanda/Face-Recognition-Based-Attendance-System.git
