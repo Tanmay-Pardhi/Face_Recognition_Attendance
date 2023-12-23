@@ -7,7 +7,7 @@ _
 
 Cloning the repository
 ```bash
-git clone https://github.com/aashutoshPanda/Face-Recognition-Based-Attendance-System.git
+git clone https://github.com/Tanmay-Pardhi/Face_Recognition_Attendance.git
 cd Face-Recognition-Based-Attendance-System
 ```
 Making Virtual environment for the project
